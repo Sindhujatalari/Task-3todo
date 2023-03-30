@@ -1,0 +1,16 @@
+body{
+    padding:0;
+    margin:0;
+}
+.todo{
+background: radial-gradient(circle, rgba(100,74,151,10) 0%, rgba(200,20,100,1) 100%);
+    padding:20px;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
